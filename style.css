@@ -241,12 +241,12 @@ section {
 
 .btn-color-1,
 .btn-color-2:hover {
-  background: rgb(53, 53, 53);
+  background: rgb(31, 195, 236);
   color: white;
 }
 
 .btn-color-1:hover {
-  background: rgb(0, 0, 0);
+  background: rgb(49, 42, 148);
 }
 
 .btn-color-2 {
@@ -254,7 +254,7 @@ section {
 }
 
 .btn-color-2:hover {
-  border: rgb(255, 255, 255) 0.1rem solid;
+  border: rgb(185, 64, 34) 0.1rem solid;
 }
 
 .btn-container {
